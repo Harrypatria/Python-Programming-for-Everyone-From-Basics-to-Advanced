@@ -16,16 +16,8 @@ Python is one of the most versatile, readable, and in-demand programming languag
   <a href="https://colab.research.google.com/drive/1CinkLYJHeFCLRLG-ZuHNSKri85q8W-Lw?usp=sharing" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Main Tutorial In Colab" />
   </a>
-  <a href="https://colab.research.google.com/drive/1fH3Cr47aQQCohORrOigvLHDb-FjXLjW6?usp=sharing" target="_blank">
+  <a href="https://colab.research.google.com/drive/1BFRID6Yx5A8-lt_A8Ob3xKLOMm9UzqaO?usp=sharing" target="_blank">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Time Series Visualization In Colab" />
-  </a>
-  <a href="https://colab.research.google.com/drive/1_MIxE1voCeeIq_ho2vUL1tSyIC-dBdfa?usp=sharing" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Dashboard Tutorial In Colab" />
-  </a>
-  <a href="https://colab.research.google.com/drive/1hnRixvVlO32yH9vTLtE_4FnXRNdI-ElS?usp=sharing" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Geographic Visualization In Colab" />
-  </a>
-  <a href="https://colab.research.google.com/drive/11xUZmmVxSSU2saEEllmq8U_9J5bI-jq_?usp=sharing" target="_blank">
   </a>
 </p>
 
