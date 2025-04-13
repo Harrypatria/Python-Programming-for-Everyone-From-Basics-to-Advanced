@@ -42,7 +42,7 @@ Python is one of the most versatile, readable, and in-demand programming languag
 
 This repository is structured to follow a natural learning progression:
 
-1. **Start with the [Basics](./01_Basics/)** - For those who have never programmed before
+1. **Start with the [Basics](./01_Basics_Python/)** - For those who have never programmed before
 2. **Move to [Intermediate](./02_Intermediate/)** - Once you're comfortable with fundamentals
 3. **Tackle [Advanced](./03_Advanced/)** - When you're ready for more complex concepts
 4. **Explore [Real-World Projects](./04_Projects/)** - To apply your knowledge
