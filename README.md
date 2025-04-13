@@ -8,6 +8,28 @@ Welcome to **Python Journey** - an inclusive and comprehensive guide to learning
 
 Python is one of the most versatile, readable, and in-demand programming languages in the world today. It's used for:
 
+## 🚀 Quick Start
+
+### Option 1: Run in Google Colab (No Installation Required)
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://colab.research.google.com/drive/1CinkLYJHeFCLRLG-ZuHNSKri85q8W-Lw?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Main Tutorial In Colab" />
+  </a>
+  <a href="https://colab.research.google.com/drive/1fH3Cr47aQQCohORrOigvLHDb-FjXLjW6?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Time Series Visualization In Colab" />
+  </a>
+  <a href="https://colab.research.google.com/drive/1_MIxE1voCeeIq_ho2vUL1tSyIC-dBdfa?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Dashboard Tutorial In Colab" />
+  </a>
+  <a href="https://colab.research.google.com/drive/1hnRixvVlO32yH9vTLtE_4FnXRNdI-ElS?usp=sharing" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Geographic Visualization In Colab" />
+  </a>
+  <a href="https://colab.research.google.com/drive/11xUZmmVxSSU2saEEllmq8U_9J5bI-jq_?usp=sharing" target="_blank">
+  </a>
+</p>
+
+
 - 📊 Data analysis and visualization
 - 🤖 Artificial intelligence and machine learning
 - 🌐 Web development
@@ -143,3 +165,15 @@ Join our [Discord server](https://discord.gg/example) to connect with other lear
 Happy coding! 🚀
 
 *Remember: Every expert was once a beginner. Your programming journey is unique, and we're here to support you every step of the way.*
+
+<div align="center">
+
+
+## 🌟 Support This Project
+**Follow me on GitHub**: [![GitHub Follow](https://img.shields.io/github/followers/Harrypatria?style=social)](https://github.com/Harrypatria?tab=followers)
+**Star this repository**: [![GitHub Star](https://img.shields.io/github/stars/Harrypatria/SQLite_Advanced_Tutorial_Google_Colab?style=social)](https://github.com/Harrypatria/SQLite_Advanced_Tutorial_Google_Colab/stargazers)
+**Connect on LinkedIn**: [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-patria/)
+
+Click the buttons above to show your support!
+
+</div>
