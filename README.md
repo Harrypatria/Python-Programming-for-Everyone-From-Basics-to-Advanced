@@ -148,10 +148,6 @@ We welcome contributions from people of all skill levels and backgrounds!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 💬 Community
-
-Join our [Discord server](https://discord.gg/example) to connect with other learners, ask questions, and share your progress!
-
 ---
 
 Happy coding! 🚀
