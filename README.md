@@ -149,7 +149,6 @@ We welcome contributions from people of all skill levels and backgrounds!
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
 Happy coding! 🚀
 
 *Remember: Every expert was once a beginner. Your programming journey is unique, and we're here to support you every step of the way.*
